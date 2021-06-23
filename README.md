@@ -12,37 +12,37 @@ NIT6160 – PROJECT REPORT
 
 
 # Contents              
-[Introduction	 PAGEREF _Toc75306444 \h 2]
+[Introduction](#_Toc75306444)
 
-[Dataset and Datafiles	 PAGEREF _Toc75306445 \h 2]
+[Dataset and Datafiles](#_Toc75306445)
 
-[Listings CSV file and data dictionary	 PAGEREF _Toc75306446 \h 2]
+[Listings CSV file and data dictionary](#_Toc75306446)
 
-[Reviews CSV file and data dictionary	 PAGEREF _Toc75306447 \h 2]
+[Reviews CSV file and data dictionary](#_Toc75306447)
 
-[Background Research	 PAGEREF _Toc75306448 \h 3]
+[Background Research](#_Toc75306448)
 
-[Task 1: Data Pre-processing	 PAGEREF _Toc75306449 \h 3]
+[Task 1: Data Pre-processing](#_Toc75306449)
 
-[Task 2: Exploratory Data Analysis (EDA) with Data Visualization	 PAGEREF _Toc75306450 \h 3]
+[Task 2: Exploratory Data Analysis (EDA) with Data Visualization](#_Toc75306450)
 
-[Task 3: Building the Accommodation Prediction Model	 PAGEREF _Toc75306451 \h 4]
+[Task 3: Building the Accommodation Prediction Model](#_Toc75306451)
 
-[Task 4: Sentiment analysis	 PAGEREF _Toc75306452 \h 5]
+[Task 4: Sentiment analysis](#_Toc75306452)
 
-[Discusssion and Validation	 PAGEREF _Toc75306458 \h 33](#_Toc75306458)
+[Discusssion and Validation](#_Toc75306458)
 
-[Task 1: Data Pre-processing	 PAGEREF _Toc75306459 \h 33](#_Toc75306459)
+[Task 1: Data Pre-processing](#_Toc75306459)
 
-[Task 2: Exploratory Data Analysis (EDA) with Data Visualization	 PAGEREF _Toc75306460 \h 33](#_Toc75306460)
+[Task 2: Exploratory Data Analysis (EDA) with Data Visualization](#_Toc75306460)
 
-[Task 3: Building the Accommodation Prediction Model	 PAGEREF _Toc75306461 \h 33](#_Toc75306461)
+[Task 3: Building the Accommodation Prediction Model](#_Toc75306461)
 
-[Task 4: Sentiment analysis	 PAGEREF _Toc75306462 \h 33](#_Toc75306462)
+[Task 4: Sentiment analysis](#_Toc75306462)
 
-[Conclusion	 PAGEREF _Toc75306463 \h 33](#_Toc75306463)
+[Conclusion](#_Toc75306463)
 
-[References	 PAGEREF _Toc75306464 \h 33](#_Toc75306464)
+[References](#_Toc75306464)
 
 
 
@@ -155,14 +155,6 @@ When it comes to predicting the value of a variable from a given set of data, we
 1. The results can be easily interpreted by visualizing the final trees.
 1. Speed and accuracy — XG boost is quick and accurate compared to other algorithms.
 
-The following diagrams explains it better **(Pedro, 2021)**:
-
-![Chart, bar chart
-
-Description automatically generated](Aspose.Words.3c4c3a7d-7811-4cdd-9e3a-4d22dce2a69a.001.png)
-
-*Figure  SEQ Figure \\* ARABIC 1: Speed and accuracy of XGBoost as compared to Random Forest and Logistic Regression Algorithms*
-
 The reason why XGBoost is better is because it is an iterative learning model which means it predicts once initially and then self-analyses its mistakes as a predictive toiler and give more weightage to the data points in which it made a wrong prediction in the next iteration. This process happens in cycle giving XGBoost better results as compared to other models.
 
 ## Task 4: Sentiment analysis
@@ -260,4 +252,3 @@ Inside Airbnb. 2021. Inside Airbnb. Adding data to the debate.. [online] Availab
 Pedro, M., 2021. How to use PCA, TSNE, XGBoost, and finally Bayesian Optimization to predict the price of houses!. [online] Medium. Available at: <https://towardsdatascience.com/how-to-use-pca-tsne-xgboost-and-finally-bayesian-optimization-to-predict-the-price-of-houses-626dbaf242ae> [Accessed 22 June 2021].
 
 Pandey, P., 2021. Simplifying Sentiment Analysis using VADER in Python (on Social Media Text). [online] Medium. Available at: <https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f> [Accessed 22 June 2021].
-
