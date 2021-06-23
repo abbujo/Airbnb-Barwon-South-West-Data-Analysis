@@ -12,33 +12,23 @@ NIT6160 – PROJECT REPORT
 
 
 # Contents              
-` `TOC \o "1-3" \h \z \u [Introduction	 PAGEREF _Toc75306444 \h 2](#_Toc75306444)
+[Introduction	 PAGEREF _Toc75306444 \h 2]
 
-[Dataset and Datafiles	 PAGEREF _Toc75306445 \h 2](#_Toc75306445)
+[Dataset and Datafiles	 PAGEREF _Toc75306445 \h 2]
 
-[Listings CSV file and data dictionary	 PAGEREF _Toc75306446 \h 2](#_Toc75306446)
+[Listings CSV file and data dictionary	 PAGEREF _Toc75306446 \h 2]
 
-[Reviews CSV file and data dictionary	 PAGEREF _Toc75306447 \h 2](#_Toc75306447)
+[Reviews CSV file and data dictionary	 PAGEREF _Toc75306447 \h 2]
 
-[Background Research	 PAGEREF _Toc75306448 \h 3](#_Toc75306448)
+[Background Research	 PAGEREF _Toc75306448 \h 3]
 
-[Task 1: Data Pre-processing	 PAGEREF _Toc75306449 \h 3](#_Toc75306449)
+[Task 1: Data Pre-processing	 PAGEREF _Toc75306449 \h 3]
 
-[Task 2: Exploratory Data Analysis (EDA) with Data Visualization	 PAGEREF _Toc75306450 \h 3](#_Toc75306450)
+[Task 2: Exploratory Data Analysis (EDA) with Data Visualization	 PAGEREF _Toc75306450 \h 3]
 
-[Task 3: Building the Accommodation Prediction Model	 PAGEREF _Toc75306451 \h 4](#_Toc75306451)
+[Task 3: Building the Accommodation Prediction Model	 PAGEREF _Toc75306451 \h 4]
 
-[Task 4: Sentiment analysis	 PAGEREF _Toc75306452 \h 5](#_Toc75306452)
-
-[Implementation	 PAGEREF _Toc75306453 \h 6](#_Toc75306453)
-
-[Task 1: Data Pre-processing	 PAGEREF _Toc75306454 \h 6](#_Toc75306454)
-
-[Task 2: Exploratory Data Analysis (EDA) with Data Visualization	 PAGEREF _Toc75306455 \h 9](#_Toc75306455)
-
-[Task 3: Building the Accommodation Prediction Model	 PAGEREF _Toc75306456 \h 22](#_Toc75306456)
-
-[Task 4: Sentiment analysis	 PAGEREF _Toc75306457 \h 26](#_Toc75306457)
+[Task 4: Sentiment analysis	 PAGEREF _Toc75306452 \h 5]
 
 [Discusssion and Validation	 PAGEREF _Toc75306458 \h 33](#_Toc75306458)
 
